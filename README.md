@@ -34,6 +34,8 @@ Includes (in chronological order of release, 1980 - 1987):
 
 [Invisiclues](http://www.ifarchive.org/indexes/if-archive/infocom/hints/invisiclues/)
 
+[The Infocom Documentation Project](http://infodoc.plover.net/)
+
 [The Infocom Gallery](https://gallery.guetech.org/index.html)
 
 ### Sources 
